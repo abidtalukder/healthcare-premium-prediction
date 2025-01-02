@@ -1,3 +1,8 @@
+# specific files and directories in this projects to be ignored
+data/
+private/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -169,3 +174,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
